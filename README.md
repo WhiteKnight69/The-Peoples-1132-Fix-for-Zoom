@@ -4,7 +4,8 @@
 
 <h1 align="center">The People's 1132 Fix for Zoom</h1>
 
-<p align="center"><em>No malware. No hidden updates. No tracking.</em></p>
+<p align="center"><em>No malware. No hidden updates. 
+No tracking.</em></p>
 
 <p align="center">
   <a href="https://github.com/WhiteKnight69/The-People-s-1132-Fix-for-Zoom/releases/latest"><strong>Download the latest version</strong></a>
